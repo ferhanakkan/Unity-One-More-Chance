@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - canver
+  - altin
+  - distaban
+  - su
+  - alttaban
+  - bolumbitsin
+  - testere
+  - dusman
+  - kursun
+  - hazirlayantext
+  - oyunbitsin
+  - kapi
+  - tcyazi
+  - bayrak
+  - sonpozisyon
+  - yuruyentoprak
+  - coliderpos
+  - Ataturk
+  - dusman1
+  - dusman2
+  - dusman3
+  - dusman4
+  - dusman5
+  - dusman6
+  - dusman7
+  - dusman8
+  - dusman9
+  - tamam
+  - yazi
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
